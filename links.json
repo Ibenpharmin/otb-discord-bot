@@ -1,0 +1,1 @@
+{"_comment":"Editable links the bot reads for !scan / !wrap / !dome. The bot re-reads this file on every command, so edits take effect with no restart. No secrets here, ever.","latest_dome_url":"https://open.spotify.com/show/3aZa1P4NQ6KA9VZv7ls6Y2","latest_scan_url":"https://x.com/ontheblokkchain","latest_wrap_url":"https://open.spotify.com/episode/7lZKhZHC9hypJl1qih0hi6"}

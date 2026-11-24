@@ -1,0 +1,15 @@
+# Secrets — never commit
+.env
+
+# Runtime state (created by the bot, per-deploy)
+floor_state.json
+mint_state.json
+
+# Local audio (the bot's own tracks, not in the repo)
+tracks/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
